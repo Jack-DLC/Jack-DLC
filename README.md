@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Jack La Cruz
-- 👀 I’m interested in software development
-- 🌱 I’m currently researching the integration of deep rienforcement learning algorithms into the Unity game engine
+- 👀 I’m interested in software development and data analytics
+- 🌱 I recently finished my undergraduate degree in Computer Science with a focus on deep rienforcement learning and game design
 - 💞️ I’m looking to collaborate on open source projects
 - 📫 You can reach me via email @ jackdelacruz679@gmail.com
 
